@@ -28,15 +28,19 @@ I'm really into:
 - **Ham radio tech** – anything that makes operating more fun
 - **Automation** – making computers do the boring stuff
 
-## 🙏 A Note on Dana
+## 🙏 Support My Work
 
-I follow the Buddhist principle of **dana** – offering my work freely, no strings attached. If something I made helps you, that's awesome. If you'd like to support what I do, the door is open, but never required.
+I believe in the Buddhist principle of **dana** – giving freely. Many of my projects are free to use, but if you find them valuable, here's how you can support me:
 
+### Freemium Model
+Some of my projects offer a free tier with optional paid features or tiers. You'll always get something useful for free – the paid stuff just unlocks more.
+
+### Ways to Support
 - **[Ko-fi](https://ko-fi.com/emmanuelpleshe)** – grab me a coffee ☕
-- **[GitHub Sponsors](https://github.com/sponsors/EmmanuelPleshe)** – support my open source work
+- **[GitHub Sponsors](https://github.com/sponsors/EmmanuelPleshe)** – support ongoing development
 - **[PayPal](https://paypal.me/EPleshe)** – any amount helps
 
-No expectations, only gratitude. Thanks for being here!
+No pressure, always appreciated. Thanks for being here!
 
 ---
 
